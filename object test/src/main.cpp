@@ -1,7 +1,8 @@
 #include <Arduino.h>
 
 //创建一个LED对象并实现闪烁
-
+//更改
+//2nd change
 class Led{    //创建类“Led”
   public:   //创建公共成员函数
   Led();    //创建构造函数
